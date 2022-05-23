@@ -133,9 +133,9 @@ tracks:
     name: orocos-kinematics-dynamics
     patches: null
     release_inc: '0'
-    release_repo_url: git@github.com:orocos/orocos-kdl-release.git
+    release_repo_url: git@github.com:tork-a/orocos-kdl_python3-release.git
     release_tag: :{ask}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/orocos/orocos_kinematics_dynamics.git
+    vcs_uri: https://github.com/jsk-ros-pkg/orocos_kinematics_dynamics_python3.git
     version: :{ask}
