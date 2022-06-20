@@ -1,3 +1,32 @@
+## orocos-kdl_python3 (melodic) - 1.4.2-2
+
+The packages in the `orocos-kdl_python3` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic orocos-kdl_python3` on `Mon, 20 Jun 2022 07:49:27 -0000`
+
+The `jsk_python_orocos_kdl_python3` package was released.
+
+These packages were explicitly ignored:
+- `orocos_kdl`
+- `orocos_kinematics_dynamics`
+- `python_orocos_kdl`
+- `python_orocos_kdl_python3`
+
+Version of package(s) in repository `orocos-kdl_python3`:
+
+- upstream repository: https://github.com/jsk-ros-pkg/orocos_kinematics_dynamics_python3.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.4.2-1`
+- new version: `1.4.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.5.0`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## orocos-kdl_python3 (noetic) - 1.4.2-1
 
 The packages in the `orocos-kdl_python3` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro noetic orocos-kdl_python3` on `Mon, 20 Jun 2022 07:43:54 -0000`
