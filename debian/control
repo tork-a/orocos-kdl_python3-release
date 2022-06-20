@@ -1,0 +1,13 @@
+Source: ros-melodic-jsk-python-orocos-kdl-python3
+Section: misc
+Priority: optional
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), python3-catkin-pkg-modules, python3-dev, python3-sip-dev, ros-melodic-catkin, ros-melodic-orocos-kdl
+Homepage: https://github.com/jsk-ros-pkg/orocos_kinematics_dynamics_python3
+Standards-Version: 3.9.2
+
+Package: ros-melodic-jsk-python-orocos-kdl-python3
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-dev, ros-melodic-catkin, ros-melodic-orocos-kdl
+Description: This package contains the python bindings PyKDL for the Kinematics and Dynamics Library (KDL), distributed by the Orocos Project.
+ This repository is for python3 compatibility in melodic environment. Supported by ROS community.
