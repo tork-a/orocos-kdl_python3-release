@@ -135,7 +135,7 @@ tracks:
     last_version: 1.4.2
     name: orocos-kinematics-dynamics
     patches: null
-    release_inc: '1'
+    release_inc: '2'
     release_repo_url: git@github.com:tork-a/orocos-kdl_python3-release.git
     release_tag: :{ask}
     ros_distro: melodic
