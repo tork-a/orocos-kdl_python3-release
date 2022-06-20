@@ -1,13 +1,17 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>python_orocos_kdl_python3</name>
-  <version>1.4.1</version>
+  <name>jsk_python_orocos_kdl_python3</name>
+  <version>1.4.2</version>
   <description>
     This package contains the python bindings PyKDL for the Kinematics and Dynamics
-    Library (KDL), distributed by the Orocos Project. 
+    Library (KDL), distributed by the Orocos Project.
+    This repository is for python3 compatibility in melodic environment.
+    Supported by ROS community.
   </description>
-  <maintainer email="ruben@intermodalics.eu">Ruben Smits</maintainer>
-  <url>http://wiki.ros.org/python_orocos_kdl</url>
+
+  <maintainer email="k-okada@jsk.t.u-tokyo.ac.jp">Kei Okada</maintainer>
+  <maintainer email="yanokura@jsk.imi.i.u-tokyo.ac.jp">Iori Yanokura</maintainer>
+  <url>https://github.com/jsk-ros-pkg/orocos_kinematics_dynamics_python3</url>
   <license>LGPL</license>
 
   <buildtool_depend>catkin</buildtool_depend>

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.4.6)
 
-project(python_orocos_kdl_python3)
+project(jsk_python_orocos_kdl_python3)
 
 find_package(orocos_kdl)
 include_directories(${orocos_kdl_INCLUDE_DIRS})
